@@ -1,0 +1,137 @@
+
+/* 
+html {
+    box-sizing: border-box;
+    
+} */
+body {
+    background-image: url("uk gate.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+}
+/* header style */
+header {
+    background-color: rgb(19, 23, 43);
+    height: 50px;
+    width: 1563px;
+    /* border-radius: 55px; */
+    margin-top: -10px;
+    text-align: center;
+    padding-top: 30px;
+    margin-left: -32px;
+    margin-right: -32px;
+ 
+
+}
+
+a {
+    font-family: 'Secular One';
+    color: blanchedalmond;
+    font-size: 15px;
+    text-decoration: none;
+    width: auto;
+    height: auto;
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 3px;
+
+}
+a:hover {
+    font-family: 'Secular One';
+    color: blanchedalmond;
+    font-size: 18px;
+    background-color:rgb(219, 144, 115)
+}
+
+
+/* beasiswa styles */
+.konten {
+    margin-top: 100px;
+    width: 90\%;
+    height: 700px;
+    float: left;
+    text-decoration: none;
+    padding-top: 70px;
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    border-radius: 30px;
+}
+
+.imgborder {
+    width: 500px;
+    height: 322px;
+}
+
+.imgborder img{
+    width: 600px;
+    height: 350px;
+    position: relative;
+    left: 55px;
+    top: 80px;
+ 
+}
+.copyright {
+    margin-bottom: -40px;
+    background-color: rgb(19, 23, 43);
+    color: blanchedalmond;
+    text-align: center;
+    height: 30px;
+    width: 1520px;
+    padding-bottom: 80px;
+    margin-left: -8px;
+    padding-right: 32px; 
+    padding-top: 50px;
+    margin-top: 100px;
+    /* border-radius: 10px; */
+    margin-left: -20px
+}
+#bea{
+    font-family: 'Secular One', sans-serif;
+    margin-left: 30px;
+    margin-top: 50px;
+    font-size: 70px;
+}
+.text{
+    margin-top: 50px;
+    margin-left: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* biaya kuliah styles */
+.biaya {
+    color: white;
+    font-size: 60px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    padding-top: -30px
+}
+.utama {
+    background-color: rgba(0,0,0,0.8);
+    position: relative;
+    left: 50px;
+    width: 105%;
+    padding-bottom: 30px
+}
+.konten1 {
+    color: white;
+    text-align: center;
+    padding-left: 45px
+}
+.konten2 {
+    color: white;
+    padding-left: 50px;
+    text-align: center;
+}
+.konten3 {
+    color: white;
+    padding-left: 50px;
+    text-align: center;
+}
+h4 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 19px;
+}
+
+/* responsive web design */
+
